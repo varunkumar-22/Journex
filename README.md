@@ -4,8 +4,6 @@ A premium, dark-themed personal journaling app built with Next.js 14 and Supabas
 
 LIVE AT https://journex-three.vercel.app/login
 
-![Journex Banner](screenshots/banner.png)
-
 ## Screenshots
 
 ### Login
