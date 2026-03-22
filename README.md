@@ -23,9 +23,6 @@ LIVE AT https://journex-three.vercel.app/login
 ### Drawing Canvas
 ![Drawing Canvas](screenshots/drawing-canvas.png)
 
-### PDF Export
-![PDF Export](screenshots/pdf-export.png)
-
 ### Themes
 ![Light Theme](screenshots/theme-light.png)
 ![Sepia Theme](screenshots/theme-sepia.png)
